@@ -1,0 +1,120 @@
+Coronavirus Resource Center
+As coronavirus continues to spread, many questions and answers
+Updated: January 11, 2021
+The continuing, rapid spread of the SARS-CoV-2 virus has sparked alarm worldwide.
+Countries around the world are grappling with surges in confirmed cases, hospitalizations, and deaths.
+Preventive measures such as physical distancing and masks to slow the spread of coronavirus have created a new normal in many places. Health care workers and hospitals have once again ramped up capabilities to care for large numbers of people made seriously ill by COVID-19.
+Meanwhile, scientists continue to explore potential treatments and prevention strategies. In December 2020, the FDA granted emergency authorization to two COVID-19 vaccines. At least two other vaccine candidates are close behind.
+The first vaccines were given in mid-December, with healthcare workers and residents of long-term care facilities among the first to receive the injections.
+Below, you'll find answers to common questions all of us are asking. We will be adding new questions and updating answers as reliable information becomes available.
+Also see our blog posts featuring experts discussing coronavirus and COVID-19 and our glossary for relevant terms.
+New questions and answers
+Should I get the COVID-19 vaccine if I already had COVID-19?
+Even people who have already gotten sick with COVID-19 may benefit from the vaccine, according to the CDC.
+Here's what we know. COVID-19 can lead to serious illness and long-term complications, even in younger people and those without underlying medical conditions.
+We also know that it's possible for someone who has already had COVID-19 to be re-infected, though this is not common.
+On the other hand, we don't know how long natural immunity to COVID-19 — the protection that results from having been sick — lasts.
+It's not clear if the strength or duration of natural immunity varies based on the severity of the initial illness. We also don't know how long immunity conferred by vaccines lasts.
+During the initial deployment of the vaccine to front line workers and people in long-term care facilities like nursing homes, people eligible for the vaccine will get it regardless of whether or not they were previously infected.
+They are not being tested for antibodies prior to vaccination.
+As scientists learn more about natural immunity after COVID illness, vaccination criteria based on the presence of antibodies may play a role in the future.
+Once I get the COVID-19 vaccine, can I stop taking other precautions?
+The vaccine will protect you from getting sick, but it may not prevent you from infecting others.
+That's why, at least for now, you should continue wearing a mask and physically distancing from others, even after you get your shot.
+Clinical trials of the Pfizer/BioNTech and Moderna vaccines found that both do a good job preventing symptomatic COVID-19 disease, including severe COVID-19.
+However, the trials did not measure whether a person who is vaccinated is less likely to spread the virus to someone else.
+It's possible that the vaccines protect against COVID-19 disease by preventing a person from becoming infected.
+However, it's also possible that the vaccine protects a person from getting sick but does not prevent the virus from replicating in that person's nose and throat.
+Does that mean there's enough virus in your nose and throat to infect someone else? Not necessarily. But we need more research to know for sure.
+Where does that leave us? If you're among the first groups of people to get vaccinated, it's best to continue wearing masks and maintaining physical distance in order to protect others who haven't yet gotten the vaccine.
+What do we know about the Moderna COVID-19 vaccine that the FDA has authorized for emergency use?
+On December 18, 2020, the FDA granted emergency use authorization (EUA) to an mRNA COVID-19 vaccine developed by Moderna in collaboration with scientists from the NIH.
+The vaccine is approved for use in people 18 years and older.
+This is the second COVID-19 vaccine authorized for use in the US. (The Pfizer/BioNTech vaccine received EUA during the prior week.)
+The FDA granted EUA based on their own analysis of efficacy and safety data as well as on the recommendation made by the Vaccines and Related Biological Products Advisory Committee (VRBPAC).
+VRBPAC is a group of outside experts in infectious disease, vaccinology, microbiology, immunology, and other related fields.
+In briefing documents submitted to the FDA, the Moderna vaccine showed an overall efficacy of 94.1% in preventing COVID-19.
+This study enrolled 30,400 adults; half received the vaccine, half received a saltwater placebo shot.
+There were 196 infections among the study participants. Of these, 185 were in the placebo group and 11 were in the vaccine group.
+All 30 cases of severe COVID occurred in the placebo group, strongly suggesting indicating that the vaccine reduces risk of severe illness.
+The vaccine was similarly effective in people older and younger than 65, in men and women, in people with and without medical conditions that put them at high risk for severe illness, and in different racial and ethnic groups.
+The most common vaccine side effects were pain at the injection site, fatigue, headache, muscle pain, joint pain, and chills.
+This vaccine requires two doses, spaced four weeks apart. We do not yet know how long immunity from this vaccine will last.
+The Moderna vaccine contains synthetic messenger RNA (mRNA), genetic material that enters human cells and instructs them to produce the spike protein found on the surface of the SARS-CoV-2 virus.
+The body recognizes the spike protein as an invader and produces antibodies against it.
+Soon after, the cell breaks down the mRNA into harmless pieces. If the antibodies later encounter the actual virus, they are ready to recognize and destroy it before it causes illness.
+Unlike the Pfizer vaccine, which requires ultracold storage, the Moderna vaccine can be stored at normal freezer temperatures.
+This may allow for wider distribution to pharmacies and other facilities that are not equipped for ultracold storage.
+Will the COVID vaccine prevent me from infecting others?
+The answer is, we don't know.
+Clinical trials of the Pfizer/BioNTech and Moderna vaccines found that both do a good job preventing symptomatic COVID-19 disease, including severe COVID-19.
+However, the trials did not measure whether a person who is vaccinated is less likely to spread the virus to someone else.
+It's possible that the vaccines protect against COVID-19 disease by preventing a person from becoming infected in the first place.
+However, it's also possible that the vaccine protects a person from COVID-19 illness, but does not prevent a person from becoming infected. In other words, a vaccinated person may have replicating virus in their nose and throat even if they are protected from becoming sick.
+But does that mean that you have enough virus in your nose and throat to infect someone else? Not necessarily.
+It's possible that the immune response triggered by the vaccine, which protects you from becoming sick, also reduces the amount of virus in your nose and throat to a point where you are unlikely to spread it to someone else. But we need more research to know for sure.
+The bottom line? If you're among the first groups of people to get vaccinated, it's best to continue wearing masks and maintaining physical distance in order to protect others who haven't yet gotten the vaccine.
+Could an mRNA vaccine change my DNA?
+An mRNA vaccine — the first COVID-19 vaccine to be granted emergency use authorization (EUA) by the FDA — cannot change your DNA.
+mRNA, or messenger RNA, is genetic material that contains instructions for making proteins. mRNA vaccines for COVID-19 contain man-made mRNA.
+Inside the body, the mRNA enters human cells and instructs them to produce the "spike" protein found on the surface of the COVID-19 virus. Soon after a cell makes the spike protein, the cell breaks down the mRNA into harmless pieces.
+At no point does the mRNA enter the cell's nucleus, which is where our genetic material (DNA) lives.
+The immune system recognizes the spike protein as an invader and produces antibodies against it.
+If the antibodies later encounter the actual virus, they are ready to recognize and destroy it before it causes illness.
+What do we know about the Pfizer/BioNTech COVID-19 vaccine that the FDA has authorized for emergency use?
+On December 11, 2020, the FDA granted emergency use authorization (EUA) to an mRNA COVID-19 vaccine developed by Pfizer and BioNTech.
+The vaccine is approved for use in people 16 years and older. This is the first COVID-19 vaccine authorized for use in the US.
+The FDA granted EUA based on their own analysis of efficacy and safety data as well as on the recommendation made by the Vaccines and Related Biological Products Advisory Committee (VRBPAC) on December 10th.
+VRBPAC is a group of outside experts in infectious disease, vaccinology, microbiology, immunology, and other related fields.
+Results from the Pfizer/BioNTech vaccine trial were published in the New England Journal of Medicine.
+The data showed that the vaccine reduced the risk of COVID-19 by 95%. The trial enrolled nearly 44,000 adults, each of whom got two shots, spaced three weeks apart;
+half received the vaccine and half got a placebo (a shot of saltwater). Of the 170 cases of COVID-19 that developed in the study participants, 162 were in the placebo group and eight were in the vaccine group.
+Nine of the 10 severe COVID cases occurred in the placebo group, suggesting that the vaccine reduced risk of both mild and severe COVID.
+According to the NEJM article, the vaccine was similarly effective in study participants of different races and ethnicities, body weight categories, presence or absence of coexisting medical conditions, and ages (younger and older than 65).
+It's worth noting that the FDA felt comfortable authorizing the vaccine for 16- and 17-year-olds, even though the number of teens enrolled in the study was small.
+None of the study participants experienced serious side effects.
+However, most did have pain at the injection site. Also, about half of those receiving the vaccine reported mild to moderate fatigue or headache or both.
+Chills and fever were also fairly common. Symptoms almost always resolved within 24 to 48 hours.
+This vaccine requires two doses, spaced three weeks apart.
+Although the vaccine appears to provide reasonable protection after the first dose, it provides stronger protection after two doses.
+We do not yet know how long immunity from this vaccine will last.
+The Pfizer/BioNTech vaccine is an mRNA vaccine. The vaccine contains synthetic messenger RNA (mRNA), genetic material that contains instructions for making proteins.
+Inside the body, the mRNA enters human cells and instructs them to produce a single component of the SARS-CoV-2 virus — the "spike" protein found on the virus's surface.
+The body recognizes the spike protein as an invader and produces antibodies against it. If the antibodies later encounter the actual virus, they are ready to recognize and destroy it before it causes illness. mRNA vaccines must be stored at very cold temperatures; improperly stored vaccines can become inactive.
+Healthcare workers and residents and staff of long-term care facilities will be the first to get the vaccine.
+Who will get the first COVID-19 vaccines and who is next?
+In mid-December, healthcare workers and residents and staff of long-term care facilities became the first group in the US to start getting the COVID-19 vaccine. The CDC has recommended that adults age 75 years and older and frontline essential workers be vaccinated next.
+They will be followed by adults aged 65 to 74, people aged 16 to 64 with medical conditions that put them at high risk for severe COVID-19, and remaining essential workers.
+State and local authorities are not obligated to follow the CDC's recommendations; they may reprioritize the order in which they distribute the vaccines at their discretion.
+There are about 21 million healthcare workers in the US, doing a variety of jobs in hospitals and outpatient clinics, pharmacies, emergency medical services, and public health.
+Another three million people reside or work in long-term care facilities, which include nursing homes, assisted-living facilities, and residential care facilities.
+COVID-19 has taken a heavy toll on residents of long-term care facilities. Frontline essential workers are those who cannot work from home and who may not be able to physically distance while working.
+They include first responders such as firefighters and police, teachers and day care workers, postal workers, and people who work in grocery stores.
+The CDC's guidance is based on a recommendation from the Advisory Committee on Immunization Practices (ACIP), made up of experts in vaccinology, immunology, virology, public health, and other related fields.
+Their work is not limited to the COVID-19 vaccine; they broadly advise the CDC on vaccinations and immunization schedules.
+What are adenovirus vaccines? What do we know about adenovirus vaccines that are being developed for COVID-19?
+Adenoviruses can cause a variety of illnesses, including the common cold.
+They are being used in two leading COVID-19 vaccine candidates as capsules (the scientific term is vectors) to deliver the coronavirus spike protein into the body.
+The spike protein prompts the immune system to produce antibodies against it, preparing the body to attack the SARS-CoV-2 virus if it later infects the body.
+In December 2020, AstraZeneca published promising results of an adenovirus-based vaccine that it developed with researchers at the University of Oxford.
+The study was published in the journal The Lancet.
+The Lancet analysis of vaccine efficacy was based on 11,636 adult study participants. Of these, 4,440 participants received a full dose of the coronavirus vaccine, followed four weeks later by another full dose.
+Nearly 1,400 participants received a half dose of the coronavirus vaccine, followed four weeks later by a full dose.
+The control group received a meningitis vaccine, followed by a second meningitis vaccine or a placebo (a salt water shot). There were 131 documented cases of COVID-19, all of which occurred at least two weeks after the second shot.
+The coronavirus vaccine reduced the risk of COVID-19 by an average of 70.4%, compared to the control group. Surprisingly, the half dose/full dose vaccine combination was more effective, reducing risk of COVID-19 by 90%.
+The full dose combination reduced risk by 62%. None of the participants who received the coronavirus vaccine developed severe COVID-19 or had to be hospitalized. There was also a reduction in asymptomatic cases.
+Most study participants were between the ages of 18 and 55, and white. In addition, the study participants were healthy or had stable underlying medical conditions.
+More data is needed to understand how effective this vaccine is in people older than 55, people of color, and people with underlying medical conditions.
+This vaccine is in clinical trials around the world, including the US. But this analysis was based on data from the United Kingdom and Brazil.
+The adenovirus used in the AstraZeneca/University of Oxford vaccine is a weakened, harmless form of a chimpanzee common-cold adenovirus.
+This vaccine can be safely refrigerated for several months.
+What are mRNA vaccines and how do they work to help prevent COVID-19?
+mRNA, or messenger RNA, is genetic material that contains instructions for making proteins. mRNA vaccines for COVID-19 contain synthetic mRNA.
+Inside the body, the mRNA enters human cells and instructs them to produce the "spike" protein found on the surface of SARS-CoV-2, the virus that causes COVID-19.
+The body recognizes the spike protein as an invader, and starts producing antibodies against it. Soon after, the cell breaks down the mRNA into harmless pieces 
+If the antibodies later encounter the actual virus, they are ready to recognize and destroy it before it causes illness.
+Two mRNA vaccines, one created by Pfizer and BioNTech and another developed by Moderna, were granted emergency use authorization (EUA) by the FDA in December 2020.
+Click here for more new questions and answers.
+Symptoms, spread, and other essential information
+What is coronavirus and how does it spread? What is COVID-19 and what are the symptoms? How long does coronavirus live on different surfaces? Take a moment to reacquaint yourself with basic information about this virus and the disease it causes.
+Click here to read more about COVID-19 symptoms, spread, and other basic information.
